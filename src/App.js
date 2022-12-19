@@ -60,8 +60,10 @@ function App() {
   return (
     <div className="flex flex-col">
       {/* Name */}
-       <div className="w-full flex justify-center items-center h-28 gap-x-4">
-        <div className="text-md">Made by: Astronaut 🧑‍🚀👨‍🚀👨‍🚀👩‍🚀 Lealem</div>
+       <div className="w-full flex flex-col justify-center items-center h-28 gap-x-4">
+        <div className="text-md">Made by: Lealem Kinfe</div>
+        <div>ID: ETR/5704/11 </div>
+        <div>Stream: Computer</div>
       </div>
       {/* Name */}
 
